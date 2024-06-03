@@ -20,8 +20,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-- Node.js
-- npm (Node Package Manager)
 - Rapid API account
 
 ### Installation
@@ -48,34 +46,12 @@ Follow these instructions to get a copy of the project up and running on your lo
    REACT_APP_RAPIDAPI_KEY=your_api_key_here
    ```
 
-### Running the App
-
-1. Start the development server
-   ```bash
-   npm start
-   ```
 2. Open your browser and navigate to `http://localhost:3000`
-
-## Deployment
-
-To deploy the app, you can use services like Vercel, Netlify, or GitHub Pages.
-
-### Example with Vercel
-
-1. Install the Vercel CLI
-   ```bash
-   npm install -g vercel
-   ```
-2. Deploy the app
-   ```bash
-   vercel
-   ```
 
 Follow the prompts to complete the deployment process.
 
 ## Built With
 
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Rapid API](https://rapidapi.com/) - API marketplace for accessing weather data
 
 ## Contributing
@@ -88,5 +64,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [OpenWeatherMap](https://openweathermap.org/) for the weather data API
+- [Weather by API- Ninjas](https://rapidapi.com/apininjas/api/weather-by-api-ninjas/) for the weather data API
 - [Rapid API](https://rapidapi.com/) for providing the API marketplace
